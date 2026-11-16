@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-presskits-online.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Kits de prensa para artistas | Lynx Pardelle",
+    "description": "Reúne tu música y los materiales de presentación en un enlace que puedas compartir con medios, foros y personas que programan eventos.",
+    "canonical": "https://servicio-presskits-online.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-web.webp"
+    }
+  }
+}
