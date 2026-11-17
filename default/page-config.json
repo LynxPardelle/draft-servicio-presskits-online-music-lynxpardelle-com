@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Kits de prensa para artistas | Lynx Pardelle",
-    "description": "Reúne tu música y los materiales de presentación en un enlace que puedas compartir con medios, foros y personas que programan eventos.",
+    "title": "Press kits digitales para artistas y bandas | Lynx Pardelle",
+    "description": "Ordena música, biografía, fotos y contacto en un kit de prensa online. Comparte un solo enlace con medios, foros y promotores.",
     "canonical": "https://servicio-presskits-online.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-presskits-online-r2-22e85d268429250f.webp",
+      "title": "Press kits digitales para artistas y bandas | Lynx Pardelle",
+      "description": "Ordena música, biografía, fotos y contacto en un kit de prensa online. Comparte un solo enlace con medios, foros y promotores.",
+      "url": "https://servicio-presskits-online.music.lynxpardelle.com/",
+      "imageAlt": "Carpeta de prensa con fotografías, notas y una pantalla de artista."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Press kits digitales para artistas y bandas | Lynx Pardelle",
+      "description": "Ordena música, biografía, fotos y contacto en un kit de prensa online. Comparte un solo enlace con medios, foros y promotores.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-presskits-online-r2-22e85d268429250f.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-presskits-online.music.lynxpardelle.com/#webpage",
+        "name": "Kits de prensa para artistas",
+        "description": "Ordena música, biografía, fotos y contacto en un kit de prensa online. Comparte un solo enlace con medios, foros y promotores.",
+        "url": "https://servicio-presskits-online.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-presskits-online.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-presskits-online.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Kits de prensa para artistas",
+        "description": "Ordena música, biografía, fotos y contacto en un kit de prensa online. Comparte un solo enlace con medios, foros y promotores.",
+        "url": "https://servicio-presskits-online.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-presskits-online-r2-22e85d268429250f.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Kits de prensa para artistas"
+      }
+    ]
   }
 }
