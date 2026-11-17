@@ -140,7 +140,7 @@
       "type": "text",
       "config": {
         "id": "outcome-title",
-        "text": "Objetivo del trabajo",
+        "text": "¿Qué conviene incluir en tu press kit musical?",
         "tag": "h2",
         "styles": {
           "margin": "0",
@@ -158,7 +158,7 @@
       "type": "text",
       "config": {
         "id": "outcome-copy",
-        "text": "Un dossier que permita escuchar el proyecto y entender su propuesta sin buscar información en varios sitios.",
+        "text": "Seleccionas música representativa, una biografía breve, fotos y datos de contacto. El dossier permite que medios y promotores encuentren esos materiales en un solo enlace.",
         "tag": "p",
         "styles": {
           "margin": "0",
@@ -621,7 +621,8 @@
         "tag": "section",
         "components": [
           "offer-contact",
-          "return-link"
+          "return-link",
+          "portfolio-reference"
         ],
         "styles": {
           "boxSizing": "border-box",
@@ -875,6 +876,22 @@
           "fontFamily": "\"Instrument Sans\", system-ui, sans-serif",
           "lineHeight": "1.6",
           "minHeight": "100vh"
+        }
+      }
+    },
+    {
+      "id": "portfolio-reference",
+      "type": "link",
+      "config": {
+        "text": "Ver sitios y proyectos web de Lynx Pardelle",
+        "href": "https://lynxpardelle.com/webs",
+        "styles": {
+          "color": "#f6c17d",
+          "textUnderlineOffset": "4px",
+          "minHeight": "44px",
+          "display": "inline-flex",
+          "alignItems": "center",
+          "fontWeight": "640"
         }
       }
     }
